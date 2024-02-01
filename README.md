@@ -17,8 +17,8 @@ El objetivo principal  de este reporitorio es construir una aplicación utilizan
 ## Requisitos
 
 - Java JDK (versión 17 o superior)
-- Spring Boot (versión Y o superior)
+- Spring Boot 
 - Uso de Maven
 - Base de datos PostgreSQL
 
-En este proyecto se encuentra tanto el pom.xml con las librerías, como los archivos .java en la carpeta src
+En este proyecto se encuentra tanto el pom.xml con las librerías, como los archivos .java en la carpeta src.
